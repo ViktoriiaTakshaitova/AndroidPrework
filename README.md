@@ -1,22 +1,26 @@
-# Pre-work - *HelloWorld*
+# Pre-work - *Android App "HelloWorld"*
 
 Submitted by: **Viktoriia Takshaitova**
 
 Time spent: **24** hours spent in total
 
-## User Stories
 
-The following **required** functionality is complete:
+The following **required** functionality is completed
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [x ] User sees custom text in a label - Hello from Viktoriia!
+* [x ] User see custom background color.
+* [x ] User can tap a button to change the text color of the label.
+
 
 The following **optional** features are implemented:
 
-* [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [x ] User can tap a button to change the color of the background view.
+* [x ] User can tap a button to change the text string of the label - Android is Awesome!
+* [x ] User can tap on the background view to reset all views to default settings.
+* [x ] User can update the label text with custom text entered into the text field.
+    a. User can enter text into a text field using the keyboard.
+    b. User can tap the “Change text string” button to update the label with the text from the text field.
+    c. If the text field is empty, update label with default text string.
 
 The following **additional** features are implemented:
 
